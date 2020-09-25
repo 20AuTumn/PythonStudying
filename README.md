@@ -1,2 +1,2 @@
-# SumAlgorithm
+# PythonStuding
 SumAlgorithm
