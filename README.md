@@ -1,2 +1,5 @@
 # PythonStuding
 SumAlgorithm
+ArithmeticSequence
+CountAlgorithm
+AverageAlgorithm
