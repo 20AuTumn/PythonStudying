@@ -11,3 +11,8 @@
 #[5] MaxAlgorithm
 
 #[6] MinAlgorithm
+
+#[7] NearAlgorithm
+
+#[8] RankAlgorithm
+
