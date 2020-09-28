@@ -16,3 +16,5 @@
 
 #[8] RankAlgorithm
 
+#[9] SortAlgorithm
+
