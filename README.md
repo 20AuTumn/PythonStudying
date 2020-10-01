@@ -18,3 +18,5 @@
 
 #[9] SortAlgorithm
 
+#[10] SearchAlgorithm
+
