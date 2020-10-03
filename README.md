@@ -20,3 +20,5 @@
 
 #[10] SearchAlgorithm
 
+#[11] MergeAlgorithm
+
