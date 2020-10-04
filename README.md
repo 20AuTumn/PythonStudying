@@ -22,3 +22,5 @@
 
 #[11] MergeAlgorithm
 
+#[12] ModeAlgorithm
+
