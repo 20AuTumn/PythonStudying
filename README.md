@@ -24,3 +24,4 @@
 
 #[12] ModeAlgorithm
 
+#[13] GroupAlgorithm
